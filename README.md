@@ -1,3 +1,9 @@
+# Output of the project
+
+![image](https://github.com/charumathi-N/DashboardTask/assets/62592988/d553d320-0b57-41d8-93f9-0a3936acae1b)
+
+I have created a sample dashboard project using react. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
